@@ -1,6 +1,4 @@
 Hello, World!
-Hi, v2!
+Hi from lab2!
 3
 4
-I'm from lab1
-Lab1 is too easy
