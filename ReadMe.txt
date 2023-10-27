@@ -1,4 +1,4 @@
 Hello, World!
-Hi, v2!
+Hi from lab2!
 3
 4
